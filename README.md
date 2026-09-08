@@ -3,8 +3,7 @@
 基于 Unity URP 制作的特效练习项目，围绕能量护盾与沙尘流动两类效果，练习 Shader Graph 材质表现与 Shuriken 粒子系统的组合使用。
 
 > **引擎版本：** Unity 6.3 LTS  
-> **渲染管线：** URP  
-> **核心工具：** Shader Graph、Particle System（Shuriken）  
+> **渲染管线：** URP 3D
 > **开发语言：** C#
 
 ## 演示视频
